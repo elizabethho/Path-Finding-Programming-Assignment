@@ -11,4 +11,5 @@ graph5.data,
 graph6.data
 
 .data files include points that map a shape 
+
 The program aims to see if the shape can be draw with one line with no repeats and without picking up the "pen".
