@@ -38,8 +38,8 @@ int main(int argc, char* argv[]){
 		c = stoi(nums.substr(nums.find(" ")));
 		g1.insert(c, r);	
 	}
-	g1.adjacencyList();
-	g1.output();
+	//g1.adjacencyList();
+	//g1.output();
 	bool hasOneStroke = g1.canDraw();
 	
 	if(hasOneStroke){
